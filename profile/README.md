@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://storage.raisinbutterlabs.com/logo-footer-light.webp" alt="Raisin Butter Labs Logo" width="700" style="margin:-150px;">
+    <img src="https://storage.raisinbutterlabs.com/logo-footer-light.webp" alt="Raisin Butter Labs Logo" width="500">
 </div>
 
 ## 🎯 What We Do
@@ -11,12 +11,10 @@
 🔹 **SEO Optimized Products** – We always deliver your ideas & our products with optimized SEO. 🔍  
 🔹 **24/7 Customer Support** – Our dedication to our customers is unparalleled. We make sure you are always satisfied. ☎️  
 
----
 
 ## 🌟 Our Philosophy
 We believe technology should be **empowering**. Our mission? To create tools that make life easier, work smarter, and innovation accessible to all. **No tech headaches—just buttery smooth experiences!** 🧈💡
 
----
 
 ## 🎉 Get Involved!
 
@@ -27,5 +25,6 @@ We believe technology should be **empowering**. Our mission? To create tools tha
 ---
 
 <div align="center">
-Built with ❤️ by the Raisin Butter Labs team. 🚀
+<br>
+<p>Built with ❤️ by the Raisin Butter Labs team. 🚀</p>
 </div>
