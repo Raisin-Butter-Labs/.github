@@ -19,8 +19,8 @@ We believe technology should be **empowering**. Our mission? To create tools tha
 ## 🎉 Get Involved!
 
 ✅ **Check out our website** 👉 [raisinbutterlabs.com](https://raisinbutterlabs.com/)  
-✅ **Follow us on GitHub** 👉 [You're already here!](https://github.com/raisinbutterlabs)  
-✅ **Say Hello!** 👉 [hello@raisinbutterlabs.com](mailto:raisinbutterlabs@gmail.com)  
+✅ **Follow us on GitHub** 👉 [You're already here!](https://github.com/Raisin-Butter-Labs)  
+✅ **Say Hello!** 👉 [raisinbutterlabs@gmail.com](mailto:raisinbutterlabs@gmail.com)  
 
 ---
 
